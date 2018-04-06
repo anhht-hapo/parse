@@ -1,0 +1,14 @@
+Program Example5; (* Factorial *)
+   
+Var n : Integer;
+    a : Integer;
+    b : Integer;
+
+Begin
+    a := 1;
+    b := 2;
+    x, y := y, x;
+    Call writei(a);
+    call writei(b);
+  
+End. (* Factorial *)

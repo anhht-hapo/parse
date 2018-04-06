@@ -1,0 +1,9 @@
+Program ABS; (* Factorial *)
+   
+Var n : Integer;
+
+Begin
+    n := Readi;
+    n := if n<0 return -n else return n;
+
+End. (* Factorial *)
